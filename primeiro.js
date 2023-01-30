@@ -1,6 +1,6 @@
 
-let a = 16
-let b = 95
+let a = 10
+let b = 40
 let x = 0
 
 console.log(" O valor da variavel a é " + a)
