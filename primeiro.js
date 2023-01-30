@@ -9,6 +9,7 @@ console.log(" O valor da variavel b é " + b)
 x = a
 a = b
 b = x
+c = 1 
 
 console.log(" Agora o valor da variavel a é " + a)
 console.log(" Agora o valor da variavel b é " + b)
